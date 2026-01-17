@@ -1,0 +1,27 @@
+Black Holes
+
+A black hole is a region in space where gravity is so strong that
+nothing, not even light, can escape from it. They are formed when very
+massive stars run out of fuel and collapse under their own gravity at
+the end of their life cycle. The core collapses into an extremely dense
+point called a singularity, surrounded by an event horizon, which marks
+the boundary beyond which nothing can return.
+
+Black holes are generally classified into three main types. Stellar-mass
+black holes form from collapsing stars and are a few times more massive
+than the Sun. Supermassive black holes, found at the centers of most
+galaxies, including our Milky Way, can be millions or even billions of
+times more massive than the Sun. There is also evidence for
+intermediate-mass black holes, which fall between these two categories,
+though they are harder to detect.
+
+Despite their name, black holes are not empty space. They have mass, can
+grow by pulling in nearby matter, and can even merge with other black
+holes. When matter falls into a black hole, it heats up and emits
+intense radiation, allowing astronomers to detect black holes
+indirectly. The study of black holes has helped scientists test theories
+of gravity, especially Einstein’s theory of general relativity.
+
+Black holes remain one of the most fascinating and mysterious objects in
+the universe, pushing the limits of our understanding of space, time,
+and physics itself.

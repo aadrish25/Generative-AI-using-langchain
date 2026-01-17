@@ -29,4 +29,6 @@ numpy
 scikit-learn
 
 sentence-transformers
+
+langchain-community
  
