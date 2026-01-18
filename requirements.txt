@@ -42,3 +42,4 @@ langchain-ollama
 langchain-pinecone
 pinecone
 
+wikipedia
