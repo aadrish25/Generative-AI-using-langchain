@@ -32,3 +32,13 @@ sentence-transformers
 
 langchain-community
 langchain-experimental
+
+chromadb
+tiktoken
+
+langchain-chroma
+langchain-ollama
+
+langchain-pinecone
+pinecone
+
